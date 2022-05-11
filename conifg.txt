@@ -3,7 +3,7 @@ fitness_criterion     = max
 fitness_threshold     = 100
 pop_size              = 100
 reset_on_extinction   = False
-s
+
 [DefaultGenome]
 # node activation options
 activation_default      = tanh
